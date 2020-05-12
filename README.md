@@ -5,6 +5,7 @@
  -----Instalação-----
  
  1 - ative o modo desenvolvedor no chrome://extensions/
+ 
  2 - Seleciona a pasta do "audioFast" e arrasta até a pagina de extensões chrome://extensions/
 
  ----- Download via GitHub -----
