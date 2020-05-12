@@ -1,0 +1,1 @@
+console.log("Minha extensão já está rodando")
