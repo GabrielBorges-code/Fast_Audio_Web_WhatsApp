@@ -2,7 +2,7 @@
 
  Essa extensão tem o objetivo de acelerar os audios do WhatsApp no navegador. 
 
- Essa extensão foi feita e inspirada no video do Programador Br - Tutoriais.
+ Essa extensão foi inspirada no video do Programador Br - Tutoriais.
 
  Ela adiciona as velocidades 1x, 1.5x e 2x de velocidade    
 
